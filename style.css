@@ -1,0 +1,13 @@
+.body {
+  background-color: black;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.header {
+  color: chartreuse;
+  font-size: 100px;
+  font-style: oblique;
+  font-family: "Courier New", Courier, monospace;
+}
